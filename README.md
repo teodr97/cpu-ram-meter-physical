@@ -4,9 +4,9 @@ A little program which connects to an Arduino Nano which in turn has to be conne
 # How to use 
 Make sure the Arduino Board is connected to both the PC and an LCD display.
 1. Load the Arduino program on your Arduino Nano.
-- You may use other boards too if you wish, but you will have to make some changes to the project config as it is configured to work on the Nano board.
+  - You may use other boards too if you wish, but you will have to make some changes to the project config as it is configured to work on the Nano board.
 2. Start the Python program through IDLE or any other Python interpreter.
-- Make sure to run the Python program first before powering up the Arduino board, otherwise the program will NOT work.
+  - Make sure to run the Python program first before powering up the Arduino board, otherwise the program will NOT work.
 
 And done! The program should now begin displaying real-time CPU and RAM usage on the LCD display.
 
