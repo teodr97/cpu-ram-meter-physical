@@ -10,4 +10,5 @@ Make sure the Arduino Board is connected to both the PC and an LCD display.
 
 And done! The program should now begin displaying real-time CPU and RAM usage on the LCD display.
 
-# Licence
+# Copyright / License
+This program operates under the Creative Commons BY-NC-SA licence. You may use and modify it for your own purposes, but you may not use it commercially.
